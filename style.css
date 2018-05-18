@@ -2,6 +2,7 @@ body {
     background: url('IMG_4708.jpg');
     background-repeat: no-repeat;;
     background-position: center;
+    background-attachment: fixed;
     font-family: Montserrat;
 
 }
@@ -18,10 +19,6 @@ body {
     border-radius:  1em;
     
     
-}
-.list-item {
-    border-radius: 1em;
-    border-color: black;
 }
 .title {
     font-size: 1.5em;
