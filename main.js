@@ -2,7 +2,7 @@ $(document).ready(() => {
   $('#search-btn').click(() => {
     let searchTerm = $("#search-query").val();
     let api =
-      "https://en.wikipedia.org/w/api.php?action=opensearch&search=" +
+      "https://en.wikipedia.org/w/api.php?action=opensearch&search="+
       searchTerm +
       "&format=json&callback=?";
 
