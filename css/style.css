@@ -8069,5 +8069,16 @@ input[type=range]::-ms-thumb {
     margin-top: 1.2rem;
   }
 }
+.output {
+  padding: 0;
+}
+.output li {
+  list-style: none;
+}
+
+.artIcon {
+  width: 250px !important;
+  height: 100%;
+}
 
 /*# sourceMappingURL=style.css.map */
